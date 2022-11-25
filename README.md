@@ -1,4 +1,4 @@
-# Image Resolution Susceptibility of Face Recognition Models
+# Susceptibility to Image Resolution in Face Recognition and Training Strategies
 Evaluation Protocols presented in the paper can be found here in this repository. 
 
 The .csv-files contain the downsampling resolution for each consecutive image in the corresponding test dataset. 
